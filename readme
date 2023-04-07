@@ -1,0 +1,4 @@
+my_QR_scanner.py是主文件
+D:\my_Academic\teacher_zyb\PaddleDetection\output\inference_model\ppyolo_mbv3_large_qr是模型参数
+my_infer0722是神经网络的输出，桥连图像识别与图像阶段性处理
+backups220804为备份，备份内容为ppyolo训练三个小时的结果，不包括2k摄像头的距离判断，解压的时候将所有文件复制到清空的D:\my_Academic\teacher_zyb即可
